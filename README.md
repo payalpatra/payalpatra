@@ -1,5 +1,5 @@
 ### Hey There 👋 I am Payal Patra !
-#### A Passionate Full-Stack Web Developer & UI/UX Enthusiast ..! 💻
+#### A Passionate Full-Stack Web Developer & UI/UX Enthusiast ... 💻
 
 ![Design and Development](https://github.com/payalpatra/payalpatra/blob/main/Avtar.jpg)
 
