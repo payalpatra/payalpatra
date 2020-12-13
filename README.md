@@ -1,6 +1,5 @@
 ### Hi there 👋 I am Payal Patra
 #### Design and Development
-![Design and Development](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpub%2Fdir%2F%2B%2FPatra...&psig=AOvVaw3bb-5JzPfKbW6AkD4IdbwG&ust=1607954454285000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCPv6SPy-0CFQAAAAAdAAAAABAJ)
 
 I am at present pursuing my Bachelor's degree in Computer Science and Engineering. I have a serious passion for Full stack web development. I ❤️ building responsive websites and web apps.
 
