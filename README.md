@@ -1,6 +1,8 @@
 ### Hey there 👋 I am Payal Patra !
 #### Design and Development
 
+https://github.com/payalpatra/payalpatra/blob/main/90231958_579346206261220_2086108308205109482_n.jpg
+
 I am at present pursuing my Bachelor's degree in Computer Science and Engineering. I have a serious passion for Full stack web development. I ❤️ building responsive websites and web apps.
 
 Skills: HTML/CSS/JAVASCRIPT/REACTJS/BOOTSTRAP/NODEJS/EXPRESS/MOONGOOSE/MONGODB
