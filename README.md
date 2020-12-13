@@ -5,8 +5,6 @@
 
 I am at present pursuing my Bachelor's degree in Computer Science and Engineering. I have a serious passion for Full stack web development. I ❤️ building responsive websites and web apps.
 
-Skills: HTML/CSS/JAVASCRIPT/REACTJS/BOOTSTRAP/NODEJS/EXPRESS/MOONGOOSE/MONGODB
-
 - 🔭 I’m currently working on Building Full-Stack Web Applications. 
 - 🌱 I’m currently learning UI/UX Designing tools. 
 - ⚡ Fun fact: My best skill is actually to eat Pizza. I am the undisputed queen of Pizza challenges.😄 
