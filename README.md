@@ -17,5 +17,3 @@ Skills: HTML/CSS/JAVASCRIPT/REACTJS/BOOTSTRAP/NODEJS/EXPRESS/MOONGOOSE/MONGODB
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=payalpatra)]
 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=payalpatra)]
