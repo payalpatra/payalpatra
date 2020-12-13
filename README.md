@@ -1,5 +1,5 @@
 ### Hey there 👋 I am Payal Patra !
-#### Design and Development
+#### Full-Stack Web Development & Web Design
 
 ![Design and Development](https://github.com/payalpatra/payalpatra/blob/main/Avtar.jpg)
 
