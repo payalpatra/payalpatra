@@ -5,7 +5,7 @@
 
 I am at present pursuing my Bachelor's degree in Computer Science and Engineering. I have a serious passion for Full stack web development. I ❤️ building responsive websites and web apps.
 
-- 🔭 I’m currently working on perfecting my craft by continuously making strides to learn as much as possible about MERN Stack as well as building basic to advance Projects. 
+- 🔭 I’m currently working on perfecting my craft by continuously making strides to learn all about MERN Stack as well as building basic to advance Projects. 
 - 🌱 I’m currently learning UI/UX Designing tools. 
 - ⚡ Fun fact: My best skill is actually to eat Pizza. I am the undisputed queen of Pizza challenges.😄 
 
