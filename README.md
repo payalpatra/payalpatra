@@ -1,5 +1,6 @@
-<h1 align="center">Hey There 👋, I'm Payal Patra !</h1>
-<h3 align="center">Full-Stack Web Development & Web Design</h3>
+### Hey there 👋 I am Payal Patra !
+
+#### Full-Stack Web Development & Web Design
 
 ![Design and Development](https://github.com/payalpatra/payalpatra/blob/main/Avtar.jpg)
 
