@@ -6,7 +6,7 @@
 
 I am at present pursuing my Bachelor's degree in Computer Science and Engineering. I have a serious passion for Full stack web development. I ❤️ building responsive websites and web apps.
 
-- 🔭 I’m currently working on Improving My Problem Solving Skills as well as Building Full Stack Web Applications. 
+- 🔭 I’m currently working on Full Stack Web Applications as well as Improving My Problem Solving Skills. 
 - 🌱 I’m currently learning UI/UX Designing tools.
 - ⚡ Fun fact: My best skill is actually to eat Pizza. I am the undisputed queen of Pizza challenges.😄
 
