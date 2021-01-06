@@ -1,7 +1,7 @@
 ### Hey there 👋 I am Payal Patra !
 
 #### A Passionate Full-Stack Web Developer & UI/UX Enthusiast
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=payalpatra&label=Profile%20views&color=0e75b6&style=flat" alt="payalpatra" /> </p>
+
 
 
 ![Design and Development](https://github.com/payalpatra/payalpatra/blob/main/Avtar.jpg)
