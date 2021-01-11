@@ -28,4 +28,4 @@ I am at present pursuing my Bachelor's degree in Computer Science and Engineerin
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=payalpatra&show_icons=true&locale=en" alt="payalpatra" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=payalpatra&show_icons=true&locale=en&layout=compact" alt="payalpatra" /> </p>
+<img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=payalpatra&show_icons=true&locale=en&layout=compact" alt="payalpatra" /> </p>
