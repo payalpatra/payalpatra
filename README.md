@@ -7,7 +7,7 @@
 ![Design and Development](https://github.com/payalpatra/payalpatra/blob/main/Avtar.jpg)
 
 I am at present pursuing my Bachelor's degree in Computer Science and Engineering. I have a serious passion for Full stack web development.
-</br> I ❤️ building responsive Websites and Web applications with amazing UI/UX.
+</br> I have a diverse set of skills, I ❤️ building responsive Websites and Web applications with amazing UI/UX.
 - 🔭 I’m currently working on Full Stack Web Applications as well as Improving My Problem Solving Skills. 
 - 🌱 I’m currently learning UI/UX Designing tools.
 - ⚡ Fun fact: My best skill is actually to eat Pizza. I am the undisputed queen of Pizza challenges.😄
