@@ -28,4 +28,4 @@ I am at present pursuing my Bachelor's degree in Computer Science and Engineerin
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=payalpatra)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=payalpatra&show_icons=true&locale=en&layout=compact" alt="payalpatra" /></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=payalpatra&show_icons=true&locale=en&layout=compact" alt="payalpatra" />
