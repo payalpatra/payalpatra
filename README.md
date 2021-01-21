@@ -8,7 +8,7 @@
 
 I am at present pursuing my Bachelor's degree in Computer Science and Engineering. I have a serious passion for Full stack web development. I ❤️ building responsive Websites and Web applications with amazing UI/UX.
 - 🔭 I’m currently working on Full Stack Web Applications as well as Improving My Problem Solving Skills. 
-- 🌱 I’m currently learning [Clean Code in Javascript] https://www.google.co.in/books/edition/Clean_Code_in_JavaScript/DprLDwAAQBAJ?hl=en&gbpv=1&pg=PA1&printsec=frontcover
+- 🌱 I’m currently learning [Clean Code in Javascript](https://www.google.co.in/books/edition/Clean_Code_in_JavaScript/DprLDwAAQBAJ?hl=en&gbpv=1&pg=PA1&printsec=frontcove)
 - ⚡ Fun fact: My best skill is actually to eat Pizza. I am the undisputed queen of Pizza challenges.😄
 
 <h3 align="left">Connect with me:</h3>
