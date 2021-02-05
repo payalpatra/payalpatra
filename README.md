@@ -8,7 +8,7 @@
 
 I am at present pursuing my Bachelor's degree in Computer Science and Engineering. I have a serious passion for Full stack web development. I ❤️ building responsive Websites and Web applications with amazing UI/UX.
 - 🔭 I’m currently working on Full Stack Web Applications as well as Improving My Problem Solving Skills. 
-- 🌱 I’m currently learning [Typescript](https://www.typescriptlang.org/docs/handbook/typescript-tooling-in-5-minutes.html)
+- 🌱 I’m currently learning [PHP](https://www.w3schools.com/php/default.asp)
 - ⚡ Fun fact: My best skill is actually to eat Pizza. I am the undisputed queen of Pizza challenges.😄
 
 <h3 align="left">Let's Connect: 🚀</h3>
