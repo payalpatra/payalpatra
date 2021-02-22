@@ -9,8 +9,8 @@
 I am at present pursuing my Bachelor's degree in Computer Science and Engineering. I have a serious passion for Full stack web development. I ❤️ building responsive Websites and Web applications with amazing UI/UX.
 - 🔭 I’m currently working on Full Stack Web Applications as well as Improving My Problem Solving Skills. 
 - 🌱 I’m currently learning [TypeScript](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_TypeScript)
-- ⚡ Winner of "Best Young Developer" Title in [Datastax Holiday Hackathon](
-https://user-images.githubusercontent.com/67522406/108530698-e2102a00-72fb-11eb-8703-b21b5c3587c9.mp4) with a cash prize of 500 Dollars.
+- ⚡ Winner of "Best Young Developer" in [Datastax Holiday Hackathon](
+https://user-images.githubusercontent.com/67522406/108530698-e2102a00-72fb-11eb-8703-b21b5c3587c9.mp4).
  
 <h3 align="left">Let's Connect: 🚀</h3>
 <p align="left">
