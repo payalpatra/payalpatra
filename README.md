@@ -17,9 +17,13 @@ https://user-images.githubusercontent.com/67522406/108530698-e2102a00-72fb-11eb-
 <p align="left">
 
 <a href="https://linkedin.com/in/payalpatra105" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="payalpatra105" height="40" width="40" /></a>
+
 <a href="https://instagram.com/p_iconic_" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="p_iconic_" height="40" width="40" /></a>
+
 <a href="https://www.hackerrank.com/payalpatra105" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="payalpatra105" height="30" width="40" /></a>
-<a href="https://dev.to/payalpatra" target="blank"><img align="center" src="https://img.icons8.com/officel/16/000000/cloud.png" alt="payalpatra" height="40" width="40" /></a>[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height="30" width="40" >](https://payalpatra-portfolio.netlify.app/)  
+
+
+</a>[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height="30" width="40" >](https://payalpatra-portfolio.netlify.app/)  
 
 </p>
 
