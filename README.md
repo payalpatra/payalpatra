@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/67522406/108530698-e2102a00-72fb-11eb-
  
 <h3 align="left">Let's Connect: 🚀</h3>
 <p align="left">
- <a href="https://linkedin.com/in/payalpatra105" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="payalpatra105" height="40" width="40" /></a><a href="https://www.hackerrank.com/payalpatra105" target="blank"><img align="center" src="https://img.icons8.com/flat-round/64/000000/star--v1.png" alt="payalpatra105" height="35" width="35" /></a><a href="https://payalpatra-portfolio.netlify.app/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/music-robot.png" alt="payalpatra105" height="40" width="40" /></a><a href="https://instagram.com/p_iconic_" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="p_iconic_" height="40" width="40" /></a>
+ <a href="https://linkedin.com/in/payalpatra105" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="payalpatra105" height="40" width="40" /></a>   <a href="https://www.hackerrank.com/payalpatra105" target="blank"><img align="center" src="https://img.icons8.com/flat-round/64/000000/star--v1.png" alt="payalpatra105" height="35" width="35" /></a>   <a href="https://payalpatra-portfolio.netlify.app/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/music-robot.png" alt="payalpatra105" height="40" width="40" /></a>   <a href="https://instagram.com/p_iconic_" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="p_iconic_" height="40" width="40" /></a>
 </p>
 
 
