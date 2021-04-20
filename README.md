@@ -7,7 +7,7 @@
 ![Design and Development](https://github.com/payalpatra/payalpatra/blob/main/Avtar.jpg)
 
 I am at present pursuing my Bachelor's degree in Computer Science and Engineering. I have a serious passion for Full stack web development. I ❤️ building responsive Websites and Web applications with amazing UI/UX.
-- ✨ I’m currently working as a Frontend Developer Intern.
+
 - 🌱 I’m currently learning [TypeScript](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_TypeScript)
 - 🔭 I’m currently working on Full Stack Web Applications as well as Improving My Problem Solving Skills. 
 - ⚡ Winner of "Best Young Developer" in [Datastax Holiday Hackathon](
