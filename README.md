@@ -1,6 +1,6 @@
 ### Hey there 👋 I am Payal Patra !
 
-#### A Passionate Full-Stack Web Developer & UI/UX Enthusiast
+#### A Passionate Full-Stack Web Developer & AI Enthusiast
 
 
 
