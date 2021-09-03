@@ -10,6 +10,11 @@ I am at present pursuing my Bachelor's degree in Computer Science and Engineerin
 
 - 🌱 I’m currently learning [TypeScript](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_TypeScript)
 - 🔭 I’m currently working on Full Stack Web Applications as well as Improving My Problem-Solving Skills. 
+
+<h3 align="left">Awards and Honours: 🏆</h3>
+<p align="left">
+
+- ⚡ Capgemini Tech Challenge Finalist 2021 in [Reactjs Domain](https://techchallenge.in.capgemini.com/finalist).
 - ⚡ Winner of "Best Young Developer" in [Datastax Holiday Hackathon](
 https://user-images.githubusercontent.com/67522406/108530698-e2102a00-72fb-11eb-8703-b21b5c3587c9.mp4).
  
