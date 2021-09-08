@@ -21,7 +21,7 @@ https://user-images.githubusercontent.com/67522406/108530698-e2102a00-72fb-11eb-
 <h3 align="left">Let's Connect: 🚀</h3>
 <p align="left">
 <a href="https://linkedin.com/in/payalpatra105" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="payalpatra105" height=43"  width="43" /></a>    &nbsp;      <a href="https://www.hackerrank.com/payalpatra105" target="blank"><img align="center" src="https://img.icons8.com/flat-round/64/000000/star--v1.png" alt="payalpatra105" height="35" width="35" /></a>        &nbsp;         <a href="https://payalpatra-portfolio.netlify.app/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/music-robot.png" alt="payalpatra105" height="44" width="44" /></a>    &nbsp;       <a href="https://instagram.com/p_iconic_" target="blank"><img align="center" src="https://img.icons8.com/plasticine/50/000000/instagram.png" alt="p_iconic_" height="50" width="50" /></a>&nbsp;
- <a href="https://twitter.com/P_iconic" target="blank"><img align="center" src="http://1.bp.blogspot.com/-Rwqcet_SHbk/T8_acMUmlmI/AAAAAAAAGgw/KD_fx__8Q4w/s1600/Twitter+bird.png" alt="payalpatra105" height="32"  width="40" /></a>
+ <a href="https://twitter.com/P_iconic_" target="blank"><img align="center" src="http://1.bp.blogspot.com/-Rwqcet_SHbk/T8_acMUmlmI/AAAAAAAAGgw/KD_fx__8Q4w/s1600/Twitter+bird.png" alt="payalpatra105" height="32"  width="40" /></a>
 
 </p>
 
