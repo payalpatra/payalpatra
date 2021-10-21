@@ -14,7 +14,7 @@ I am at present pursuing my Bachelor's degree in Computer Science and Engineerin
 <h3 align="left">Awards and Honours: 🏆</h3>
 <p align="left">
 
-- ⚡ Capgemini Tech Challenge Finalist 2021 in [Reactjs Domain](https://techchallenge.in.capgemini.com/finalist).
+- ⚡ Capgemini Tech Challenge Finalist 2021 in [Reactjs Domain](https://drive.google.com/file/d/1Z3jI5zcNnhsWPLD2wWyWoj6fdkHE34LK/view?usp=sharing).
 - ⚡ Winner of "Best Young Developer" in [Datastax Holiday Hackathon](
 https://user-images.githubusercontent.com/67522406/108530698-e2102a00-72fb-11eb-8703-b21b5c3587c9.mp4).
  
