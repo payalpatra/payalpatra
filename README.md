@@ -34,4 +34,4 @@ https://user-images.githubusercontent.com/67522406/108530698-e2102a00-72fb-11eb-
 
 
 [![Payal Patra github stats](https://github-readme-stats.vercel.app/api?username=payalpatra)](https://github.com/anuraghazra/github-readme-stats) 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nobtfnldnrzfidmcsqes7aze44&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/31nobtfnldnrzfidmcsqes7aze44)
+
