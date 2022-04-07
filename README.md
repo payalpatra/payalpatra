@@ -1,15 +1,15 @@
 ### Hey There 👋 I am Payal Patra !
 
-#### A Passionate Full-Stack Web Developer & Devops Enthusiast
+#### A Passionate Full-Stack Web Developer & Versatile Problem Solver
 
 
 
 ![Design and Development](https://github.com/payalpatra/payalpatra/blob/main/Avtar.jpg)
 
-I am at present pursuing my Bachelor's degree in Computer Science and Engineering. I have a serious passion for Full stack web development. I ❤️ building responsive Websites and Web applications with amazing UI/UX.
+I am at present pursuing my Bachelor's degree in Computer Science and Engineering. I am a Passionate Full Stack Web Developer who has intuitive problem-solving skills.
 
-- 🌱 I’m currently learning [TypeScript](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_TypeScript)
-- 🔭 I’m currently working on Full Stack Web Applications as well as Improving My Problem-Solving Skills. 
+- 🌱 I’m currently improving my [Problem-Solving Skills](https://leetcode.com/payalpatra105/)
+- 🔭 I’m currently working on Full Stack Web Applications.
 
 <h3 align="left">Awards and Honours: 🏆</h3>
 <p align="left">
