@@ -12,7 +12,7 @@ Hey There👋 I am Payal Patra !
 ```
 
 I ❤️ building Full-Stack Web Applications with amazing UI/UX.
-I like documenting my learnings & projects in various professional platforms.
+I like documenting my learnings in various professional platforms.
 
 
 🌱 I’m currently improving my Problem-Solving Skills.
