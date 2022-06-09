@@ -1,6 +1,7 @@
 
 <h1 align = "center" >
-Hey There👋 I am Payal Patra ! </h1>
+Hey There👋 I am Payal Patra ! 
+</h1>
 
 <h5 align="center">  A Passionate Full-Stack Web Developer & Versatile Problem Solver</h5>
 
@@ -11,6 +12,8 @@ Hey There👋 I am Payal Patra ! </h1>
 ```
 
 I ❤️ building Full-Stack Web Applications with amazing UI/UX.
+I like documenting my learnings & projects in various professional platforms.
+
 
 🌱 I’m currently improving my Problem-Solving Skills.
 👨‍💻 I mostly prefer working with JavaScript & its Frameworks.
