@@ -1,15 +1,24 @@
-### Hey There 👋 I am Payal Patra !
 
-#### A Passionate Full-Stack Web Developer & Versatile Problem Solver
+<h1 align = "center" >
+Hey There👋 I am Payal Patra ! </h1>
+
+<h5 align="center">  A Passionate Full-Stack Web Developer & Versatile Problem Solver</h5>
+
+<hr>
+<img align="left" src="https://thumbs.dreamstime.com/b/girl-works-computer-woman-sits-sketch-style-hand-drawn-work-place-keybord-sticky-notes-cup-notebook-79973980.jpg=" alt="" height = "210" width = ""/>
 
 
+```
 
-![Design and Development](https://github.com/payalpatra/payalpatra/blob/main/Avtar.jpg)
+I ❤️ building Full-Stack Web Applications with amazing UI/UX.
 
-I am at present pursuing my Bachelor's degree in Computer Science and Engineering. I am a Passionate Full Stack Web Developer who has intuitive problem-solving skills.
+🌱 I’m currently improving my Problem-Solving Skills.
+👨‍💻 I mostly prefer working with JavaScript & its Frameworks.
+😜 Fun fact: I speak fluent sarcasm. It's like my innate ability.
+🤖 Goals: To upscale my technical skills in various fields of software engineering.
 
-- 🌱 I’m currently improving my [Problem-Solving Skills](https://leetcode.com/payalpatra105/)
-- 🔭 I’m currently working on Full Stack Web Applications.
+```
+<hr>
 
 <h3 align="left">Awards and Honours: 🏆</h3>
 <p align="left">
