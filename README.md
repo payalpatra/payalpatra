@@ -17,7 +17,7 @@ I like documenting my learnings in various professional platforms.
 🌱 I’m currently improving my Problem-Solving Skills.
 👨‍💻 I mostly prefer working with JavaScript & its Frameworks.
 😜 Fun fact: I speak fluent sarcasm. It's like my innate ability.
-🤖 Goals: To upscale my technical skills in various fields of software engineering.
+🤖 Goals: To upgrade myself in various fields of software engineering.
 
 ```
 <hr>
