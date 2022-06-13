@@ -6,14 +6,13 @@ Hey There👋 I am Payal Patra !
 <h5 align="center">  A Passionate Full-Stack Web Developer & Versatile Problem Solver</h5>
 
 <hr>
-<img align="left" src="https://thumbs.dreamstime.com/b/girl-works-computer-woman-sits-sketch-style-hand-drawn-work-place-keybord-sticky-notes-cup-notebook-79973980.jpg=" alt="" height = "210" width = ""/>
+<img align="left" src="https://user-images.githubusercontent.com/67522406/173383621-172181f3-b2fd-4f31-85e2-1ed221fb059a.jpg" alt="" height = "210" width = ""/>
 
 
 ```
 
 I ❤️ building Full-Stack Web Applications with amazing UI/UX.
 I like documenting my learnings in various professional platforms.
-
 
 🌱 I’m currently improving my Problem-Solving Skills.
 👨‍💻 I mostly prefer working with JavaScript & its Frameworks.
