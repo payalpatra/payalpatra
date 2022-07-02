@@ -11,7 +11,7 @@ Hey There👋 I am Payal Patra !
 
 ```
 
-I am at present working as a SDE Trainee @FIS GLOBAL.
+I am at present working as a Software Engineer @FIS GLOBAL.
 I ❤️ building Full-Stack Web Applications with amazing UI/UX.
 I enjoy sharing my learning on numerous professional platforms.
 
