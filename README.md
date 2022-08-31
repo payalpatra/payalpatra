@@ -1,12 +1,13 @@
 #
 <h1 align = "center" >
-Hey There👋 I am Payal Patra ! 
+Hey There👋 I am Payal Patra !
+
 </h1>
 
 <p align="center">
   <em>
-    I am at present working as a <b>Software Engineer</b> at <a href="https://www.linkedin.com/company/fis/"> <b>FIS GLOBAL</b></a>, building Digital Banking System & Empowering the Financial World. </br>
-   I have serious passion for Full Stack Web Development with an intense desire to adopt latest technologies and create amazing digital experience.
+   I am working as a <b>Software Engineer</b> at <a href="https://www.linkedin.com/company/fis/"> <b>FIS GLOBAL</b></a>, building Digital Banking System & Empowering the Financial World. </br>
+   A Passionate Full-Stack Web Developer & Versatile Problem Solver with an intense desire to adopt latest technologies and create amazing digital experience.
   </em>
 </p>
 <br/>
@@ -14,7 +15,7 @@ Hey There👋 I am Payal Patra !
 <img align="left" src="https://user-images.githubusercontent.com/67522406/173383621-172181f3-b2fd-4f31-85e2-1ed221fb059a.jpg" alt="" height = "210" width = ""/>
 
 ```
-🌱 I’m currently improving my Problem-Solving Skills.
+🌱 I’m currently improving my Problem-Solving Skills. 
 👨‍💻 I mostly prefer working with JavaScript & its Frameworks.
 📜 I like sharing my learning on numerous professional platforms.
 😜 Fun fact: I speak fluent sarcasm. It's like my innate ability.
