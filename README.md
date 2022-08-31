@@ -1,13 +1,12 @@
 #
 <h1 align = "center" >
-Hey There👋 I am Payal Patra !
-
+𝐇𝐞𝐲 𝐓𝐡𝐞𝐫𝐞 👋 𝓘 𝓪𝓶  <a href="https://docs.google.com/document/d/1vnH1s50H8m_j4jAkV3UAiVx20EGwAZvKzAAL0q51ajY/edit?usp=sharing"> <b>𝓟𝓪𝔂𝓪𝓵 𝓟𝓪𝓽𝓻𝓪</b></a> !
 </h1>
 
 <p align="center">
   <em>
-   I am working as a <b>Software Engineer</b> at <a href="https://www.fisglobal.com/en/"> <b>FIS GLOBAL</b></a>, building Digital Banking System & Empowering the Financial World. </br>
-   A Passionate Full-Stack Web Developer & Versatile Problem Solver with an intense desire to adopt latest technologies.
+   I am working as a <b>Software Engineer</b> at <a href="https://www.fisglobal.com/en/"> <b>FIS GLOBAL</b></a>, building Digital Banking Systems & Empowering the Financial World. </br>
+   A Passionate Full-Stack Web Developer & Versatile Problem Solver with an intense desire to adopt the latest technologies. 
   </em>
 </p>
 <br/>
@@ -16,9 +15,9 @@ Hey There👋 I am Payal Patra !
 
 ```
 🌱 I’m currently improving my Problem-Solving Skills. 
+🏆 I’m determined to learn, practice and perfect my craft. 
 👨‍💻 I mostly prefer working with JavaScript & its Frameworks.
 📜 I like sharing my learning on numerous professional platforms.
-✨ Looking forward to create amazing UI/UX & digital experience. 
 😜 Fun fact: I speak fluent sarcasm. It's like my innate ability.
 🤖 Goals: To upgrade myself in various fields of software engineering.
 ```
